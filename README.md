@@ -1,6 +1,7 @@
 # Sound fix!
 Kali Linux NetHunter (rootless) sound problem fix!
 
+---
 # Usage
 
 💲 `pkg install pulseaudio`
@@ -14,5 +15,13 @@ Kali Linux NetHunter (rootless) sound problem fix!
 💲 `bash`
 
 💲 `echo "export PULSE_SERVER=127.0.0.1" >> ~/.bashrc ; bash`
+
+---
+
+# Tutorial -
+
+---
+
+
 
 
